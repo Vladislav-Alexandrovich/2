@@ -7,7 +7,7 @@
 4. Windos дб Windows
 
 Файл cmd.html.
-1. 202 4 дб 2025
+1. 202 4 дб 2026
 2. id="rt-3" дб id="rt-2”
 3. нет <p class="location" align="center">
             <a href="../index.html">Вернуться на главную</a>
